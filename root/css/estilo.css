@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.text
+{
+    width: 85%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+text p
+{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 15px;
+}
+
+a:hover
+{
+    background-color: transparent;
+    text-decoration: underline;
+}
